@@ -1,5 +1,3 @@
-from dataclasses import field, fields
-from email.policy import default
 from rest_framework import serializers
 from api.models import Place, LL
 
