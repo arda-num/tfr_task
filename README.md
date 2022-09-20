@@ -27,7 +27,7 @@ This will end up with an api interface that you can try the endpoints.
 
 # Brief explanation of the endpoints
 
-![screenshot_from_2022-08-18_21-08-31](https://user-images.githubusercontent.com/78916039/191230283-6e833223-af15-4269-85f2-a7567fbed4f5.png)
+![Screenshot from 2022-09-20 13-06-01](https://user-images.githubusercontent.com/78916039/191230526-52f79847-5fb7-4885-8e52-f9424bd5a5ab.png)
 
 There are 1 search and 2 database purposes endpoints. 
 
