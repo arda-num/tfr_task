@@ -27,6 +27,8 @@ This will end up with an api interface that you can try the endpoints.
 
 # Brief explanation of the endpoints
 
+![screenshot_from_2022-08-18_21-08-31](https://user-images.githubusercontent.com/78916039/191230283-6e833223-af15-4269-85f2-a7567fbed4f5.png)
+
 There are 1 search and 2 database purposes endpoints. 
 
 - /api/v1/search endpoint is responsible for finding places.
