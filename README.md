@@ -6,7 +6,7 @@ This repository consist of an Rest API made by Django Rest Framework to search p
 
 Navigate to the root of the application and install all dependencies.
 
-ruby´´´
+´´´ruby
 
 pip install -r requirements.txt
 
