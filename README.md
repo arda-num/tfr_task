@@ -1,3 +1,8 @@
+<a href="#"><img src="https://img.shields.io/badge/Django-v4.1.1-green?logo=Django&style=for-the-badge" /></a>
+
+
+
+
 # TFR API Task
 
 This repository consist of an Rest API made by *<b>Django Rest Framework</b>* to search places through latitude and longitude values.
