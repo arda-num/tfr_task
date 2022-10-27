@@ -9,7 +9,7 @@ from rest_framework.response import Response
 from rest_framework.decorators import api_view
 from drf_yasg.utils import swagger_auto_schema
 from rest_framework.generics import GenericAPIView 
-
+import os
 
 
 @api_view(["GET"])
@@ -54,7 +54,7 @@ class search(GenericAPIView):
 
         headers = {
             "accept": "application/json",
-            "Authorization": "fsq38jf5s6BtxsM5GasJ/3pdhr7HlOSL2O6cjpiwegCvd90=",
+            "Authorization": os.environ.get('API_PASSWORD'),
             
         }
 
